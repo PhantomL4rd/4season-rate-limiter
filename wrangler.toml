@@ -9,4 +9,4 @@ class_name = "IpRateLimiter"
 
 [[migrations]]
 tag = "v1"
-new_classes = ["IpRateLimiter"]
+new_sqlite_classes = ["IpRateLimiter"]
